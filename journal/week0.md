@@ -8,9 +8,12 @@ LAYERS:  Conceptual, Logical, Physical
 
 Created an architectural design using lucid for how the app would function
 
-AWS SERVICES
+AWS SERVICES:
 Setup MFA
 Learned about budgets for AWS services and applied a budget for my personal account within a certain limit.
 
 IAM USER
 Created an IAM User along with generated Access key and Secret Access key.
+
+ACCESS KEYS
+Added AWS credentials
